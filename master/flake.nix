@@ -11,6 +11,7 @@
   inputs.src-impulse_engine-master.ref   = "refs/heads/master";
   inputs.src-impulse_engine-master.owner = "matkuki";
   inputs.src-impulse_engine-master.repo  = "Nim-Impulse-Engine";
+  inputs.src-impulse_engine-master.dir   = "";
   inputs.src-impulse_engine-master.type  = "github";
   
   inputs."opengl".owner = "nim-nix-pkgs";
