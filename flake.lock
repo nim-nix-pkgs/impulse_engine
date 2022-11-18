@@ -214,11 +214,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668750453,
-        "narHash": "sha256-kABLt5LaBnpFI0LcqTv62Q9fA7hpwisqwU7GSHII+tM=",
+        "lastModified": 1668756003,
+        "narHash": "sha256-5a0GgmG5uH+3uUDirtTLYQZjlPd/dARMBJWIka6bRMc=",
         "owner": "nim-nix-pkgs",
         "repo": "impulse_engine",
-        "rev": "56544a442a894a60ddefe2b8cc08762c1d13f0cf",
+        "rev": "c611eadc5fba6f4632173a253d69242974ac904b",
         "type": "github"
       },
       "original": {
